@@ -1,0 +1,20 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2022-10-25 15:39:21 --> 404 Page Not Found --> explore
+ERROR - 2022-10-25 17:48:02 --> 404 Page Not Found --> .well-known
+ERROR - 2022-10-25 17:48:03 --> 404 Page Not Found --> .well-known
+ERROR - 2022-10-25 17:48:10 --> 404 Page Not Found --> .well-known
+ERROR - 2022-10-25 17:48:11 --> 404 Page Not Found --> .well-known
+ERROR - 2022-10-25 17:55:25 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-10-25 17:55:26 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-10-25 17:56:28 --> 404 Page Not Found --> api
+ERROR - 2022-10-25 20:07:44 --> 404 Page Not Found --> wp-login.php
+ERROR - 2022-10-25 21:10:27 --> 404 Page Not Found --> .well-known
+ERROR - 2022-10-25 21:22:00 --> 404 Page Not Found --> owa
+ERROR - 2022-10-25 21:25:34 --> 404 Page Not Found --> .well-known
+ERROR - 2022-10-25 21:33:35 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-10-25 21:42:03 --> 404 Page Not Found --> owa
+ERROR - 2022-10-25 21:50:06 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-10-25 21:50:23 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-10-25 21:50:23 --> 404 Page Not Found --> sitemap.xml
+ERROR - 2022-10-25 21:50:24 --> 404 Page Not Found --> .well-known
